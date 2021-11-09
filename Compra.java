@@ -1,3 +1,4 @@
+**//al principo había creado separados los módulos de compra, pero los logré unir//**
 import java.util.Scanner;
 
 public class JavaApplication4 {
