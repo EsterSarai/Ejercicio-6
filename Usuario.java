@@ -1,3 +1,4 @@
+**//Luis contreras no realizó sus partes de los códigos, por eso faltan varias cosas y clases :/ **//** 
 package com.nes.entidades;
 
 import java.util.ArrayList;
